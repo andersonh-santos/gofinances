@@ -1,8 +1,5 @@
 # Go Finances
 
-<h4 align="center">
-	🏁  GoFinances - Finalizado 🏁
-</h4>
 
 
 ![](https://raw.githubusercontent.com/BrunoSaibert/go-finances/main/src/assets/cover.png)
