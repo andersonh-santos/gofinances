@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-Aplicativo para ajudar no controle de finanças pessoas de forma simples.
+Aplicativo para ajudar no controle de finanças pessoais de forma simples.
 
 O projeto foi desenvolvido durante o bootcamp **Ignite** da Rocketseat, com o objetivo de criar uma aplicação mobile com React Native.
 
@@ -30,7 +30,7 @@ Para o desenvolvimento utilizamos **React Native**, **Expo** e **TypeScript**.
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Além disto, um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
 
 #### 🧭 Rodando a aplicação
 
@@ -65,7 +65,7 @@ REDIRECT_URI=
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iqwSYiLThiSajHqWAQyVXO/GoFinances-Ignite?node-id=5154%3A131). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iqwSYiLThiSajHqWAQyVXO/GoFinances-Ignite?node-id=5154%3A131).
 
 ---
 
